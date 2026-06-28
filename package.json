@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://yogeshswami0.github.io/Airspace-AI/",
+  "homepage": ".",
   "scripts": {
     "dev": "vite --host",
     "build": "vite build",
